@@ -3,7 +3,7 @@
 `bashunit` is a unit testing framework for Bash scripts based on xUnit principles.
 
 This is similar to the [ShUnit](http://shunit.sourceforge.net/) and its
-successor [shUnit2](https://code.google.com/p/shunit2/).
+successor [shUnit2](https://github.com/kward/shunit2).
 
 ## Usage
 
